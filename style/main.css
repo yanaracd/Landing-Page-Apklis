@@ -1,0 +1,43 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    margin-top: 75px;
+}
+
+.ml-auto{
+    margin-left: auto;
+}
+
+#que-puedo-hacer{
+    background: #f1f1f1;
+    padding: 50px 0px 30px 0px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+#descargar{
+    background: #f18305;
+    color: white;
+    padding: 50px 0px 30px 0px;
+    text-align: justify;
+    margin-top: 40px;
+}
+
+#message{
+    background: #f1f1f1;
+    padding: 30px 0px 30px 0px;
+    text-align: center;
+}
+
+footer{
+    background: #3a3938;
+    color: white;
+    padding: 15px 0px 15px 0px;
+    text-align: center;
+}
+
+#terminos{
+    color: #f18305;
+}
